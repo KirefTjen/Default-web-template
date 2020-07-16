@@ -26,9 +26,9 @@ body{
 		inset rgba(0, 0, 0, 0.15) 0px -10px 20px;
 }
 
-.box:hover {
+/* .box:hover {
 	transform: scale(1.03);
-}
+} */
 
 /* NAV */
 
